@@ -1,0 +1,8179 @@
+{
+ "n_sims": 25000,
+ "teams": {
+  "MEX": {
+   "p_r32": 1.0,
+   "p_r16": 0.85928,
+   "p_qf": 0.40192,
+   "p_sf": 0.19736,
+   "p_final": 0.0894,
+   "p_champion": 0.03464,
+   "p_champion_model": 0.02656,
+   "p_champion_market": 0.03159315444401975,
+   "delta_vs_market": 0.0030468455559802474,
+   "name": "Mexico",
+   "group": "A",
+   "confed": "CONCACAF",
+   "ev": 40.7424,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 2.0448,
+    "3rd": 3.4104,
+    "2nd": 7.6664,
+    "1st": 7.6208
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.05112,
+    "p3": 0.05684,
+    "p2": 0.05476,
+    "p1": 0.03464
+   },
+   "ev_24h_delta": 0.42,
+   "ev_24h_reason": "market odds rose"
+  },
+  "RSA": {
+   "p_r32": 1.0,
+   "p_r16": 0.15332,
+   "p_qf": 0.02628,
+   "p_sf": 0.00436,
+   "p_final": 0.00076,
+   "p_champion": 8e-05,
+   "p_champion_model": 0.00032,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 8e-05,
+   "name": "South Africa",
+   "group": "A",
+   "confed": "CAF",
+   "ev": 10.268,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.1216,
+    "3rd": 0.0336,
+    "2nd": 0.0952,
+    "1st": 0.0176
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.00304,
+    "p3": 0.00056,
+    "p2": 0.00068,
+    "p1": 8e-05
+   },
+   "ev_24h_delta": -0.13,
+   "ev_24h_reason": "minor shift"
+  },
+  "KOR": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "South Korea",
+   "group": "A",
+   "confed": "AFC",
+   "ev": 0.0,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "CZE": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Czech Republic",
+   "group": "A",
+   "confed": "UEFA",
+   "ev": 0.0,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "CAN": {
+   "p_r32": 1.0,
+   "p_r16": 0.84668,
+   "p_qf": 0.2726,
+   "p_sf": 0.08172,
+   "p_final": 0.01484,
+   "p_champion": 0.00296,
+   "p_champion_model": 0.00652,
+   "p_champion_market": 0.0023830641333402016,
+   "delta_vs_market": 0.0005769358666597984,
+   "name": "Canada",
+   "group": "B",
+   "confed": "CONCACAF",
+   "ev": 15.3032,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 2.048,
+    "3rd": 0.9408,
+    "2nd": 1.6632,
+    "1st": 0.6512
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.0512,
+    "p3": 0.01568,
+    "p2": 0.01188,
+    "p1": 0.00296
+   },
+   "ev_24h_delta": -0.75,
+   "ev_24h_reason": "minor shift"
+  },
+  "BIH": {
+   "p_r32": 1.0,
+   "p_r16": 0.13964,
+   "p_qf": 0.0356,
+   "p_sf": 0.00584,
+   "p_final": 0.00104,
+   "p_champion": 0.00016,
+   "p_champion_model": 0.0008,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.00016,
+   "name": "Bosnia and Herzegovina",
+   "group": "B",
+   "confed": "UEFA",
+   "ev": 10.3624,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.168,
+    "3rd": 0.036,
+    "2nd": 0.1232,
+    "1st": 0.0352
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.0042,
+    "p3": 0.0006,
+    "p2": 0.00088,
+    "p1": 0.00016
+   },
+   "ev_24h_delta": -0.66,
+   "ev_24h_reason": "market odds fell"
+  },
+  "QAT": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Qatar",
+   "group": "B",
+   "confed": "AFC",
+   "ev": 0.0,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "SUI": {
+   "p_r32": 1.0,
+   "p_r16": 0.70392,
+   "p_qf": 0.29996,
+   "p_sf": 0.10472,
+   "p_final": 0.0318,
+   "p_champion": 0.00828,
+   "p_champion_model": 0.02264,
+   "p_champion_market": 0.006241381567918931,
+   "delta_vs_market": 0.002038618432081068,
+   "name": "Switzerland",
+   "group": "B",
+   "confed": "UEFA",
+   "ev": 28.5712,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 1.8368,
+    "3rd": 1.62,
+    "2nd": 3.2928,
+    "1st": 1.8216
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.04592,
+    "p3": 0.027,
+    "p2": 0.02352,
+    "p1": 0.00828
+   },
+   "ev_24h_delta": 0.14,
+   "ev_24h_reason": "market odds fell"
+  },
+  "BRA": {
+   "p_r32": 1.0,
+   "p_r16": 0.8464,
+   "p_qf": 0.56644,
+   "p_sf": 0.30408,
+   "p_final": 0.15996,
+   "p_champion": 0.06484,
+   "p_champion_model": 0.05992,
+   "p_champion_market": 0.06401432168340604,
+   "delta_vs_market": 0.0008256783165939557,
+   "name": "Brazil",
+   "group": "C",
+   "confed": "CONMEBOL",
+   "ev": 54.8824,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 2.6928,
+    "3rd": 4.608,
+    "2nd": 13.3168,
+    "1st": 14.2648
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.06732,
+    "p3": 0.0768,
+    "p2": 0.09512,
+    "p1": 0.06484
+   },
+   "ev_24h_delta": 1.25,
+   "ev_24h_reason": "market odds rose"
+  },
+  "MAR": {
+   "p_r32": 1.0,
+   "p_r16": 0.84016,
+   "p_qf": 0.66096,
+   "p_sf": 0.23952,
+   "p_final": 0.07508,
+   "p_champion": 0.02312,
+   "p_champion_model": 0.0116,
+   "p_champion_market": 0.0227877388668118,
+   "delta_vs_market": 0.0003322611331882004,
+   "name": "Morocco",
+   "group": "C",
+   "confed": "CAF",
+   "ev": 30.1856,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 4.0832,
+    "3rd": 3.7416,
+    "2nd": 7.2744,
+    "1st": 5.0864
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.10208,
+    "p3": 0.06236,
+    "p2": 0.05196,
+    "p1": 0.02312
+   },
+   "ev_24h_delta": 0.11,
+   "ev_24h_reason": "market odds fell"
+  },
+  "HAI": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Haiti",
+   "group": "C",
+   "confed": "CONCACAF",
+   "ev": 10.0,
+   "ev_breakdown": {
+    "zero": 10.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 1.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "SCO": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Scotland",
+   "group": "C",
+   "confed": "UEFA",
+   "ev": 0.0,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "USA": {
+   "p_r32": 1.0,
+   "p_r16": 0.86036,
+   "p_qf": 0.52068,
+   "p_sf": 0.17524,
+   "p_final": 0.07372,
+   "p_champion": 0.0294,
+   "p_champion_model": 0.0288,
+   "p_champion_market": 0.025720419289725786,
+   "delta_vs_market": 0.0036795807102742127,
+   "name": "United States",
+   "group": "D",
+   "confed": "CONCACAF",
+   "ev": 37.708,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 2.112,
+    "3rd": 2.9232,
+    "2nd": 6.2048,
+    "1st": 6.468
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.0528,
+    "p3": 0.04872,
+    "p2": 0.04432,
+    "p1": 0.0294
+   },
+   "ev_24h_delta": -0.91,
+   "ev_24h_reason": "market odds fell"
+  },
+  "PAR": {
+   "p_r32": 1.0,
+   "p_r16": 0.84676,
+   "p_qf": 0.22564,
+   "p_sf": 0.07088,
+   "p_final": 0.0126,
+   "p_champion": 0.00244,
+   "p_champion_model": 0.004,
+   "p_champion_market": 0.0014242669050681554,
+   "delta_vs_market": 0.0010157330949318445,
+   "name": "Paraguay",
+   "group": "D",
+   "confed": "CONMEBOL",
+   "ev": 14.5136,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 1.8848,
+    "3rd": 0.6696,
+    "2nd": 1.4224,
+    "1st": 0.5368
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.04712,
+    "p3": 0.01116,
+    "p2": 0.01016,
+    "p1": 0.00244
+   },
+   "ev_24h_delta": 0.37,
+   "ev_24h_reason": "minor shift"
+  },
+  "AUS": {
+   "p_r32": 1.0,
+   "p_r16": 0.46876,
+   "p_qf": 0.1016,
+   "p_sf": 0.03072,
+   "p_final": 0.00756,
+   "p_champion": 0.00156,
+   "p_champion_model": 0.00552,
+   "p_champion_market": 0.0014242669050681554,
+   "delta_vs_market": 0.00013573309493184458,
+   "name": "Australia",
+   "group": "D",
+   "confed": "AFC",
+   "ev": 12.2424,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.6608,
+    "3rd": 0.3984,
+    "2nd": 0.84,
+    "1st": 0.3432
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.01652,
+    "p3": 0.00664,
+    "p2": 0.006,
+    "p1": 0.00156
+   },
+   "ev_24h_delta": -0.28,
+   "ev_24h_reason": "minor shift"
+  },
+  "TUR": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Turkey",
+   "group": "D",
+   "confed": "UEFA",
+   "ev": 0.0,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "GER": {
+   "p_r32": 1.0,
+   "p_r16": 0.15324,
+   "p_qf": 0.03988,
+   "p_sf": 0.00828,
+   "p_final": 0.00116,
+   "p_champion": 0.00024,
+   "p_champion_model": 0.04028,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.00024,
+   "name": "Germany",
+   "group": "E",
+   "confed": "UEFA",
+   "ev": 20.4912,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 0.2352,
+    "3rd": 0.0744,
+    "2nd": 0.1288,
+    "1st": 0.0528
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.00588,
+    "p3": 0.00124,
+    "p2": 0.00092,
+    "p1": 0.00024
+   },
+   "ev_24h_delta": 0.02,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "CUW": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Curacao",
+   "group": "E",
+   "confed": "CONCACAF",
+   "ev": 0.0,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "CIV": {
+   "p_r32": 1.0,
+   "p_r16": 0.15764,
+   "p_qf": 0.0322,
+   "p_sf": 0.00524,
+   "p_final": 0.00032,
+   "p_champion": 0.0,
+   "p_champion_model": 0.00324,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Ivory Coast",
+   "group": "E",
+   "confed": "CAF",
+   "ev": 10.2488,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.1824,
+    "3rd": 0.0216,
+    "2nd": 0.0448,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.00456,
+    "p3": 0.00036,
+    "p2": 0.00032,
+    "p1": 0.0
+   },
+   "ev_24h_delta": -0.14,
+   "ev_24h_reason": "minor shift"
+  },
+  "ECU": {
+   "p_r32": 1.0,
+   "p_r16": 0.14072,
+   "p_qf": 0.0312,
+   "p_sf": 0.00612,
+   "p_final": 0.00108,
+   "p_champion": 0.00028,
+   "p_champion_model": 0.02696,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.00028,
+   "name": "Ecuador",
+   "group": "E",
+   "confed": "CONMEBOL",
+   "ev": 10.3928,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.1664,
+    "3rd": 0.0528,
+    "2nd": 0.112,
+    "1st": 0.0616
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.00416,
+    "p3": 0.00088,
+    "p2": 0.0008,
+    "p1": 0.00028
+   },
+   "ev_24h_delta": -0.03,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "NED": {
+   "p_r32": 1.0,
+   "p_r16": 0.15984,
+   "p_qf": 0.04016,
+   "p_sf": 0.00728,
+   "p_final": 0.00136,
+   "p_champion": 0.00016,
+   "p_champion_model": 0.04592,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.00016,
+   "name": "Netherlands",
+   "group": "F",
+   "confed": "UEFA",
+   "ev": 20.46,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 0.1968,
+    "3rd": 0.06,
+    "2nd": 0.168,
+    "1st": 0.0352
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.00492,
+    "p3": 0.001,
+    "p2": 0.0012,
+    "p1": 0.00016
+   },
+   "ev_24h_delta": 0.1,
+   "ev_24h_reason": "minor shift"
+  },
+  "JPN": {
+   "p_r32": 1.0,
+   "p_r16": 0.1536,
+   "p_qf": 0.03276,
+   "p_sf": 0.0052,
+   "p_final": 0.00076,
+   "p_champion": 4e-05,
+   "p_champion_model": 0.01608,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 4e-05,
+   "name": "Japan",
+   "group": "F",
+   "confed": "AFC",
+   "ev": 10.3024,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.1472,
+    "3rd": 0.0456,
+    "2nd": 0.1008,
+    "1st": 0.0088
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.00368,
+    "p3": 0.00076,
+    "p2": 0.00072,
+    "p1": 4e-05
+   },
+   "ev_24h_delta": 0.04,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "SWE": {
+   "p_r32": 1.0,
+   "p_r16": 0.15424,
+   "p_qf": 0.02448,
+   "p_sf": 0.00384,
+   "p_final": 0.00072,
+   "p_champion": 8e-05,
+   "p_champion_model": 0.00316,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 8e-05,
+   "name": "Sweden",
+   "group": "F",
+   "confed": "UEFA",
+   "ev": 10.244,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.1008,
+    "3rd": 0.036,
+    "2nd": 0.0896,
+    "1st": 0.0176
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.00252,
+    "p3": 0.0006,
+    "p2": 0.00064,
+    "p1": 8e-05
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "TUN": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Tunisia",
+   "group": "F",
+   "confed": "CAF",
+   "ev": 10.0,
+   "ev_breakdown": {
+    "zero": 10.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 1.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "BEL": {
+   "p_r32": 1.0,
+   "p_r16": 0.84572,
+   "p_qf": 0.41932,
+   "p_sf": 0.12256,
+   "p_final": 0.04888,
+   "p_champion": 0.01612,
+   "p_champion_model": 0.02096,
+   "p_champion_market": 0.013035485209597767,
+   "delta_vs_market": 0.0030845147904022315,
+   "name": "Belgium",
+   "group": "G",
+   "confed": "UEFA",
+   "ev": 31.723200000000002,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 1.6608,
+    "3rd": 1.9296,
+    "2nd": 4.5864,
+    "1st": 3.5464
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.04152,
+    "p3": 0.03216,
+    "p2": 0.03276,
+    "p1": 0.01612
+   },
+   "ev_24h_delta": 0.41,
+   "ev_24h_reason": "market odds fell"
+  },
+  "EGY": {
+   "p_r32": 1.0,
+   "p_r16": 0.53124,
+   "p_qf": 0.11848,
+   "p_sf": 0.03668,
+   "p_final": 0.009,
+   "p_champion": 0.00212,
+   "p_champion_model": 0.00296,
+   "p_champion_market": 0.0014242669050681554,
+   "delta_vs_market": 0.0006957330949318445,
+   "name": "Egypt",
+   "group": "G",
+   "confed": "CAF",
+   "ev": 12.7152,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.7504,
+    "3rd": 0.5352,
+    "2nd": 0.9632,
+    "1st": 0.4664
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.01876,
+    "p3": 0.00892,
+    "p2": 0.00688,
+    "p1": 0.00212
+   },
+   "ev_24h_delta": 0.04,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "IRN": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Iran",
+   "group": "G",
+   "confed": "AFC",
+   "ev": 0.0,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "NZL": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "New Zealand",
+   "group": "G",
+   "confed": "OFC",
+   "ev": 0.0,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "ESP": {
+   "p_r32": 1.0,
+   "p_r16": 0.8258,
+   "p_qf": 0.5528,
+   "p_sf": 0.41624,
+   "p_final": 0.23028,
+   "p_champion": 0.14008,
+   "p_champion_model": 0.16172,
+   "p_champion_market": 0.12623384192812095,
+   "delta_vs_market": 0.013846158071879056,
+   "name": "Spain",
+   "group": "H",
+   "confed": "UEFA",
+   "ev": 73.3736,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 2.4592,
+    "3rd": 7.4688,
+    "2nd": 12.628,
+    "1st": 30.8176
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.06148,
+    "p3": 0.12448,
+    "p2": 0.0902,
+    "p1": 0.14008
+   },
+   "ev_24h_delta": 6.66,
+   "ev_24h_reason": "market odds rose"
+  },
+  "CPV": {
+   "p_r32": 1.0,
+   "p_r16": 0.15984,
+   "p_qf": 0.07856,
+   "p_sf": 0.02296,
+   "p_final": 0.00452,
+   "p_champion": 0.00108,
+   "p_champion_model": 0.00072,
+   "p_champion_market": 0.0009978915774053695,
+   "delta_vs_market": 8.210842259463052e-05,
+   "name": "Cape Verde",
+   "group": "H",
+   "confed": "CAF",
+   "ev": 11.5592,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.5328,
+    "3rd": 0.3072,
+    "2nd": 0.4816,
+    "1st": 0.2376
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.01332,
+    "p3": 0.00512,
+    "p2": 0.00344,
+    "p1": 0.00108
+   },
+   "ev_24h_delta": -0.13,
+   "ev_24h_reason": "minor shift"
+  },
+  "KSA": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Saudi Arabia",
+   "group": "H",
+   "confed": "AFC",
+   "ev": 0.0,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "URU": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Uruguay",
+   "group": "H",
+   "confed": "CONMEBOL",
+   "ev": 0.0,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "FRA": {
+   "p_r32": 1.0,
+   "p_r16": 0.84576,
+   "p_qf": 0.71,
+   "p_sf": 0.58412,
+   "p_final": 0.41164,
+   "p_champion": 0.2936,
+   "p_champion_model": 0.11544,
+   "p_champion_market": 0.3389903437668878,
+   "delta_vs_market": -0.045390343766887775,
+   "name": "France",
+   "group": "I",
+   "confed": "UEFA",
+   "ev": 110.5456,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 1.8416,
+    "3rd": 7.5864,
+    "2nd": 16.5256,
+    "1st": 64.592
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.04604,
+    "p3": 0.12644,
+    "p2": 0.11804,
+    "p1": 0.2936
+   },
+   "ev_24h_delta": -1.85,
+   "ev_24h_reason": "market odds fell"
+  },
+  "SEN": {
+   "p_r32": 1.0,
+   "p_r16": 0.15428,
+   "p_qf": 0.0244,
+   "p_sf": 0.00404,
+   "p_final": 0.0006,
+   "p_champion": 0.00012,
+   "p_champion_model": 0.01488,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.00012,
+   "name": "Senegal",
+   "group": "I",
+   "confed": "CAF",
+   "ev": 10.24,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.12,
+    "3rd": 0.0264,
+    "2nd": 0.0672,
+    "1st": 0.0264
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.003,
+    "p3": 0.00044,
+    "p2": 0.00048,
+    "p1": 0.00012
+   },
+   "ev_24h_delta": -1.08,
+   "ev_24h_reason": "market odds fell"
+  },
+  "IRQ": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Iraq",
+   "group": "I",
+   "confed": "AFC",
+   "ev": 10.0,
+   "ev_breakdown": {
+    "zero": 10.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 1.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "NOR": {
+   "p_r32": 1.0,
+   "p_r16": 0.84236,
+   "p_qf": 0.3686,
+   "p_sf": 0.15408,
+   "p_final": 0.06556,
+   "p_champion": 0.02212,
+   "p_champion_model": 0.02816,
+   "p_champion_market": 0.017906512838114876,
+   "delta_vs_market": 0.004213487161885125,
+   "name": "Norway",
+   "group": "I",
+   "confed": "UEFA",
+   "ev": 25.3168,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 1.8848,
+    "3rd": 2.484,
+    "2nd": 6.0816,
+    "1st": 4.8664
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.04712,
+    "p3": 0.0414,
+    "p2": 0.04344,
+    "p1": 0.02212
+   },
+   "ev_24h_delta": -0.95,
+   "ev_24h_reason": "market odds fell"
+  },
+  "ARG": {
+   "p_r32": 1.0,
+   "p_r16": 0.84016,
+   "p_qf": 0.70136,
+   "p_sf": 0.5428,
+   "p_final": 0.35628,
+   "p_champion": 0.18476,
+   "p_champion_model": 0.15188,
+   "p_champion_market": 0.18472605366246703,
+   "delta_vs_market": 3.394633753298071e-05,
+   "name": "Argentina",
+   "group": "J",
+   "confed": "CONMEBOL",
+   "ev": 94.4512,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 2.8,
+    "3rd": 6.9912,
+    "2nd": 24.0128,
+    "1st": 40.6472
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.07,
+    "p3": 0.11652,
+    "p2": 0.17152,
+    "p1": 0.18476
+   },
+   "ev_24h_delta": 1.61,
+   "ev_24h_reason": "market odds rose"
+  },
+  "ALG": {
+   "p_r32": 1.0,
+   "p_r16": 0.29608,
+   "p_qf": 0.08668,
+   "p_sf": 0.0226,
+   "p_final": 0.0044,
+   "p_champion": 0.00076,
+   "p_champion_model": 0.00612,
+   "p_champion_market": 0.0009978915774053695,
+   "delta_vs_market": -0.00023789157740536945,
+   "name": "Algeria",
+   "group": "J",
+   "confed": "CAF",
+   "ev": 11.5048,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.528,
+    "3rd": 0.3,
+    "2nd": 0.5096,
+    "1st": 0.1672
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.0132,
+    "p3": 0.005,
+    "p2": 0.00364,
+    "p1": 0.00076
+   },
+   "ev_24h_delta": 0.05,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "AUT": {
+   "p_r32": 1.0,
+   "p_r16": 0.1742,
+   "p_qf": 0.0414,
+   "p_sf": 0.01448,
+   "p_final": 0.0048,
+   "p_champion": 0.0014,
+   "p_champion_model": 0.00768,
+   "p_champion_market": 0.0009978915774053695,
+   "delta_vs_market": 0.0004021084225946305,
+   "name": "Austria",
+   "group": "J",
+   "confed": "UEFA",
+   "ev": 11.2336,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.2624,
+    "3rd": 0.1872,
+    "2nd": 0.476,
+    "1st": 0.308
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.00656,
+    "p3": 0.00312,
+    "p2": 0.0034,
+    "p1": 0.0014
+   },
+   "ev_24h_delta": -0.85,
+   "ev_24h_reason": "market odds fell"
+  },
+  "JOR": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Jordan",
+   "group": "J",
+   "confed": "AFC",
+   "ev": 10.0,
+   "ev_breakdown": {
+    "zero": 10.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 1.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "POR": {
+   "p_r32": 1.0,
+   "p_r16": 0.73684,
+   "p_qf": 0.32668,
+   "p_sf": 0.22412,
+   "p_final": 0.10832,
+   "p_champion": 0.05612,
+   "p_champion_model": 0.04584,
+   "p_champion_market": 0.056139856698496964,
+   "delta_vs_market": -1.9856698496960312e-05,
+   "name": "Portugal",
+   "group": "K",
+   "confed": "UEFA",
+   "ev": 35.6488,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 1.9072,
+    "3rd": 4.0872,
+    "2nd": 7.308,
+    "1st": 12.3464
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.04768,
+    "p3": 0.06812,
+    "p2": 0.0522,
+    "p1": 0.05612
+   },
+   "ev_24h_delta": -0.63,
+   "ev_24h_reason": "market odds fell"
+  },
+  "COD": {
+   "p_r32": 1.0,
+   "p_r16": 0.15664,
+   "p_qf": 0.02784,
+   "p_sf": 0.00548,
+   "p_final": 0.00084,
+   "p_champion": 8e-05,
+   "p_champion_model": 0.0008,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 8e-05,
+   "name": "DR Congo",
+   "group": "K",
+   "confed": "CAF",
+   "ev": 10.324,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.1568,
+    "3rd": 0.0432,
+    "2nd": 0.1064,
+    "1st": 0.0176
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.00392,
+    "p3": 0.00072,
+    "p2": 0.00076,
+    "p1": 8e-05
+   },
+   "ev_24h_delta": 0.11,
+   "ev_24h_reason": "minor shift"
+  },
+  "UZB": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Uzbekistan",
+   "group": "K",
+   "confed": "AFC",
+   "ev": 10.0,
+   "ev_breakdown": {
+    "zero": 10.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 1.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  },
+  "COL": {
+   "p_r32": 1.0,
+   "p_r16": 0.78988,
+   "p_qf": 0.53828,
+   "p_sf": 0.21976,
+   "p_final": 0.08748,
+   "p_champion": 0.03064,
+   "p_champion_model": 0.05376,
+   "p_champion_market": 0.02376499796857061,
+   "delta_vs_market": 0.006875002031429392,
+   "name": "Colombia",
+   "group": "K",
+   "confed": "CONMEBOL",
+   "ev": 41.2024,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 2.8656,
+    "3rd": 3.6384,
+    "2nd": 7.9576,
+    "1st": 6.7408
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.07164,
+    "p3": 0.06064,
+    "p2": 0.05684,
+    "p1": 0.03064
+   },
+   "ev_24h_delta": -0.69,
+   "ev_24h_reason": "market odds fell"
+  },
+  "ENG": {
+   "p_r32": 1.0,
+   "p_r16": 0.84336,
+   "p_qf": 0.53904,
+   "p_sf": 0.32244,
+   "p_final": 0.1766,
+   "p_champion": 0.07752,
+   "p_champion_model": 0.07016,
+   "p_champion_market": 0.07485358025609917,
+   "delta_vs_market": 0.002666419743900833,
+   "name": "England",
+   "group": "L",
+   "confed": "UEFA",
+   "ev": 58.408,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 10.0,
+    "4th": 2.536,
+    "3rd": 4.9464,
+    "2nd": 13.8712,
+    "1st": 17.0544
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 1.0,
+    "p4": 0.0634,
+    "p3": 0.08244,
+    "p2": 0.09908,
+    "p1": 0.07752
+   },
+   "ev_24h_delta": -2.06,
+   "ev_24h_reason": "market odds fell"
+  },
+  "CRO": {
+   "p_r32": 1.0,
+   "p_r16": 0.26316,
+   "p_qf": 0.07912,
+   "p_sf": 0.03748,
+   "p_final": 0.0142,
+   "p_champion": 0.00424,
+   "p_champion_model": 0.01612,
+   "p_champion_market": 0.0033448806615963716,
+   "delta_vs_market": 0.0008951193384036282,
+   "name": "Croatia",
+   "group": "L",
+   "confed": "UEFA",
+   "ev": 13.4512,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.5456,
+    "3rd": 0.5784,
+    "2nd": 1.3944,
+    "1st": 0.9328
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.01364,
+    "p3": 0.00964,
+    "p2": 0.00996,
+    "p1": 0.00424
+   },
+   "ev_24h_delta": -0.48,
+   "ev_24h_reason": "minor shift"
+  },
+  "GHA": {
+   "p_r32": 1.0,
+   "p_r16": 0.21012,
+   "p_qf": 0.07508,
+   "p_sf": 0.01976,
+   "p_final": 0.00444,
+   "p_champion": 0.00096,
+   "p_champion_model": 0.00048,
+   "p_champion_market": 0.0009978915774053695,
+   "delta_vs_market": -3.789157740536947e-05,
+   "name": "Ghana",
+   "group": "L",
+   "confed": "CAF",
+   "ev": 11.384,
+   "ev_breakdown": {
+    "zero": 0.0,
+    "advance": 10.0,
+    "wingroup": 0.0,
+    "4th": 0.4672,
+    "3rd": 0.2184,
+    "2nd": 0.4872,
+    "1st": 0.2112
+   },
+   "ev_probs": {
+    "zero": 0.0,
+    "advance": 1.0,
+    "wingroup": 0.0,
+    "p4": 0.01168,
+    "p3": 0.00364,
+    "p2": 0.00348,
+    "p1": 0.00096
+   },
+   "ev_24h_delta": 0.31,
+   "ev_24h_reason": "minor shift"
+  },
+  "PAN": {
+   "p_r32": 0.0,
+   "p_r16": 0.0,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
+   "p_champion_model": 0.0,
+   "p_champion_market": 0.0,
+   "delta_vs_market": 0.0,
+   "name": "Panama",
+   "group": "L",
+   "confed": "CONCACAF",
+   "ev": 10.0,
+   "ev_breakdown": {
+    "zero": 10.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "4th": 0.0,
+    "3rd": 0.0,
+    "2nd": 0.0,
+    "1st": 0.0
+   },
+   "ev_probs": {
+    "zero": 1.0,
+    "advance": 0.0,
+    "wingroup": 0.0,
+    "p4": 0.0,
+    "p3": 0.0,
+    "p2": 0.0,
+    "p1": 0.0
+   },
+   "ev_24h_delta": 0.0,
+   "ev_24h_reason": "\u2248 flat"
+  }
+ },
+ "top_paths": {
+  "MEX": [
+   {
+    "p": 0.4388,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     }
+    ]
+   },
+   {
+    "p": 0.14072,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     }
+    ]
+   },
+   {
+    "p": 0.09124,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.0464,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.0422,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "COD",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.02036,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "COD",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.01856,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "COD",
+      "venue": "mexico_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00628,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "ESP",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00468,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "MAR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00464,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "104",
+      "opponent": "FRA",
+      "venue": "new_york"
+     }
+    ]
+   }
+  ],
+  "RSA": [
+   {
+    "p": 0.84668,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "CAN",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.10848,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "CAN",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     }
+    ]
+   },
+   {
+    "p": 0.01856,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "CAN",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "NED",
+      "venue": "houston"
+     }
+    ]
+   },
+   {
+    "p": 0.01196,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "CAN",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.0042,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "CAN",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "PAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00344,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "CAN",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "NED",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00136,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "CAN",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "NED",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "PAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00064,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "CAN",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "GER",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00016,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "CAN",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "MEX",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00016,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "CAN",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "KOR": [],
+  "CZE": [],
+  "CAN": [
+   {
+    "p": 0.55248,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "RSA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     }
+    ]
+   },
+   {
+    "p": 0.15332,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "RSA",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.09496,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "RSA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.06596,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "RSA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "NED",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.0216,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "RSA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "NED",
+      "venue": "houston"
+     }
+    ]
+   },
+   {
+    "p": 0.01544,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "RSA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "PAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.01192,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "RSA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "NED",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "PAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00124,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "RSA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00112,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "RSA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00108,
+    "path": [
+     {
+      "match": "73",
+      "opponent": "RSA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "90",
+      "opponent": "MAR",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "BIH": [
+   {
+    "p": 0.86036,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "USA",
+      "venue": "bay_area"
+     }
+    ]
+   },
+   {
+    "p": 0.09848,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "USA",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "BEL",
+      "venue": "seattle"
+     }
+    ]
+   },
+   {
+    "p": 0.00868,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "USA",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00788,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "USA",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00556,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "USA",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "SEN",
+      "venue": "seattle"
+     }
+    ]
+   },
+   {
+    "p": 0.00472,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "USA",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "POR",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00456,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "USA",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "POR",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00164,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "USA",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "CRO",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00112,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "USA",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "CRO",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00064,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "USA",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     }
+    ]
+   }
+  ],
+  "QAT": [],
+  "SUI": [
+   {
+    "p": 0.35992,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "COL",
+      "venue": "vancouver"
+     }
+    ]
+   },
+   {
+    "p": 0.29608,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     }
+    ]
+   },
+   {
+    "p": 0.10964,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "COL",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "ARG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.05928,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "GHA",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "ARG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.04404,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "GHA",
+      "venue": "vancouver"
+     }
+    ]
+   },
+   {
+    "p": 0.00688,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "COL",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "EGY",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00552,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "COL",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "AUS",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.0044,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "COL",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "CPV",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00368,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "GHA",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "EGY",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00328,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "GHA",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "AUS",
+      "venue": "kansas_city"
+     }
+    ]
+   }
+  ],
+  "BRA": [
+   {
+    "p": 0.25876,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "JPN",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "NOR",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.1536,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "JPN",
+      "venue": "houston"
+     }
+    ]
+   },
+   {
+    "p": 0.1294,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "JPN",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "NOR",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.07692,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "JPN",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "NOR",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "MEX",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.03204,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "JPN",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "CIV",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.0212,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "JPN",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "CIV",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.01956,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "JPN",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "CIV",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "MEX",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.01,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "JPN",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "NOR",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "104",
+      "opponent": "FRA",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.00896,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "JPN",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "NOR",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "MEX",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "104",
+      "opponent": "FRA",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.00696,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "JPN",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "NOR",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "MEX",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "FRA",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "MAR": [
+   {
+    "p": 0.32096,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "NED",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "CAN",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.15984,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "NED",
+      "venue": "monterrey"
+     }
+    ]
+   },
+   {
+    "p": 0.15884,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "NED",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "CAN",
+      "venue": "houston"
+     }
+    ]
+   },
+   {
+    "p": 0.06348,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "NED",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "RSA",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.02532,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "NED",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "CAN",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "PAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.02036,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "NED",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "RSA",
+      "venue": "houston"
+     }
+    ]
+   },
+   {
+    "p": 0.0058,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "NED",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "CAN",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00512,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "NED",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "RSA",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "PAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00488,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "NED",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "CAN",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00444,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "NED",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "CAN",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "HAI": [],
+  "SCO": [],
+  "USA": [
+   {
+    "p": 0.32084,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "BIH",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "BEL",
+      "venue": "seattle"
+     }
+    ]
+   },
+   {
+    "p": 0.16472,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "BIH",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.13964,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "BIH",
+      "venue": "bay_area"
+     }
+    ]
+   },
+   {
+    "p": 0.08656,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "BIH",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "POR",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.0454,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "BIH",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.02504,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "BIH",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "POR",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.01884,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "BIH",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "SEN",
+      "venue": "seattle"
+     }
+    ]
+   },
+   {
+    "p": 0.0132,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "BIH",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "CRO",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00536,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "BIH",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00436,
+    "path": [
+     {
+      "match": "81",
+      "opponent": "BIH",
+      "venue": "bay_area"
+     },
+     {
+      "match": "94",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ENG",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "PAR": [
+   {
+    "p": 0.60008,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "GER",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "FRA",
+      "venue": "philadelphia"
+     }
+    ]
+   },
+   {
+    "p": 0.15324,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "GER",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.05884,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "GER",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "FRA",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.05776,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "GER",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "SWE",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.02104,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "GER",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "SWE",
+      "venue": "philadelphia"
+     }
+    ]
+   },
+   {
+    "p": 0.01812,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "GER",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "FRA",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "CAN",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.01768,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "GER",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "SWE",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "CAN",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00112,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "GER",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "FRA",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00096,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "GER",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "FRA",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "CAN",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00092,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "GER",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "FRA",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "CAN",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "COL",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "AUS": [
+   {
+    "p": 0.53124,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "EGY",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.33124,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "EGY",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     }
+    ]
+   },
+   {
+    "p": 0.03592,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "EGY",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "CPV",
+      "venue": "atlanta"
+     }
+    ]
+   },
+   {
+    "p": 0.02524,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "EGY",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.01604,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "EGY",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "CPV",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.01352,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "EGY",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "SUI",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.0082,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "EGY",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "CPV",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "SUI",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00252,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "EGY",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "ALG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.0024,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "EGY",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.0016,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "EGY",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "CPV",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "ALG",
+      "venue": "kansas_city"
+     }
+    ]
+   }
+  ],
+  "TUR": [],
+  "GER": [
+   {
+    "p": 0.84676,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "PAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.10992,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "FRA",
+      "venue": "philadelphia"
+     }
+    ]
+   },
+   {
+    "p": 0.01104,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "SWE",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.01104,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "FRA",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.0048,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "FRA",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "CAN",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00444,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "SWE",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "CAN",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00344,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "SWE",
+      "venue": "philadelphia"
+     }
+    ]
+   },
+   {
+    "p": 0.00024,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "SWE",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "NOR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00024,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "SWE",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ENG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.0002,
+    "path": [
+     {
+      "match": "74",
+      "opponent": "PAR",
+      "venue": "boston"
+     },
+     {
+      "match": "89",
+      "opponent": "SWE",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "NED",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "CUW": [],
+  "CIV": [
+   {
+    "p": 0.84236,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "NOR",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.11188,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "NOR",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.01356,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "NOR",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "JPN",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.0096,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "NOR",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00704,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "NOR",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "MEX",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00532,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "NOR",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "JPN",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00316,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "NOR",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "JPN",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "MEX",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00104,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "NOR",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ECU",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00036,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "NOR",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "COD",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00028,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "NOR",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "ESP",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "ECU": [
+   {
+    "p": 0.85928,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     }
+    ]
+   },
+   {
+    "p": 0.10024,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00932,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00928,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "COD",
+      "venue": "mexico_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00588,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "COD",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00576,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00384,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "COD",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00024,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "COL",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "ESP",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00024,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "MAR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00016,
+    "path": [
+     {
+      "match": "79",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "92",
+      "opponent": "ENG",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "USA",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "NED": [
+   {
+    "p": 0.84016,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "MAR",
+      "venue": "monterrey"
+     }
+    ]
+   },
+   {
+    "p": 0.11376,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "MAR",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "CAN",
+      "venue": "houston"
+     }
+    ]
+   },
+   {
+    "p": 0.0126,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "MAR",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "CAN",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.01076,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "MAR",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "RSA",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00592,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "MAR",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "RSA",
+      "venue": "houston"
+     }
+    ]
+   },
+   {
+    "p": 0.00436,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "MAR",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "CAN",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "PAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00316,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "MAR",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "RSA",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "PAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00096,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "MAR",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "CAN",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "GER",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.0008,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "MAR",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "RSA",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "GER",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.0002,
+    "path": [
+     {
+      "match": "75",
+      "opponent": "MAR",
+      "venue": "monterrey"
+     },
+     {
+      "match": "90",
+      "opponent": "RSA",
+      "venue": "houston"
+     },
+     {
+      "match": "97",
+      "opponent": "FRA",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "JPN": [
+   {
+    "p": 0.8464,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "BRA",
+      "venue": "houston"
+     }
+    ]
+   },
+   {
+    "p": 0.10984,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "BRA",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "NOR",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.011,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "BRA",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "CIV",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.0082,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "BRA",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "NOR",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00688,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "BRA",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "NOR",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "MEX",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00624,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "BRA",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "CIV",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.0042,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "BRA",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "CIV",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "MEX",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00072,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "BRA",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "NOR",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "COD",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.0006,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "BRA",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "CIV",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "COD",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.0004,
+    "path": [
+     {
+      "match": "76",
+      "opponent": "BRA",
+      "venue": "houston"
+     },
+     {
+      "match": "91",
+      "opponent": "NOR",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ECU",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "SWE": [
+   {
+    "p": 0.84576,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "FRA",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.10976,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "FRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     }
+    ]
+   },
+   {
+    "p": 0.02,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "FRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "GER",
+      "venue": "philadelphia"
+     }
+    ]
+   },
+   {
+    "p": 0.01136,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "FRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.0054,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "FRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "CAN",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00208,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "FRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "GER",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00076,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "FRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "NED",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00064,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "FRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "GER",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "CAN",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00032,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "FRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "RSA",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.00024,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "FRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "USA",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "TUN": [],
+  "BEL": [
+   {
+    "p": 0.40764,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "USA",
+      "venue": "seattle"
+     }
+    ]
+   },
+   {
+    "p": 0.15428,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "SEN",
+      "venue": "seattle"
+     }
+    ]
+   },
+   {
+    "p": 0.13372,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "USA",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.07416,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "USA",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "POR",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.0446,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "BIH",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.02256,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "BIH",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "POR",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.01876,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "BIH",
+      "venue": "seattle"
+     }
+    ]
+   },
+   {
+    "p": 0.01156,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "USA",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "CRO",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.0046,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "USA",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.0042,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "SEN",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "BIH",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "CRO",
+      "venue": "los_angeles"
+     }
+    ]
+   }
+  ],
+  "EGY": [
+   {
+    "p": 0.46876,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "AUS",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.37012,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "AUS",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     }
+    ]
+   },
+   {
+    "p": 0.04264,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "AUS",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "CPV",
+      "venue": "atlanta"
+     }
+    ]
+   },
+   {
+    "p": 0.03144,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "AUS",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.01752,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "AUS",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "CPV",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.01388,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "AUS",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "SUI",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00988,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "AUS",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "CPV",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "SUI",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00304,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "AUS",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "ALG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00296,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "AUS",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00176,
+    "path": [
+     {
+      "match": "88",
+      "opponent": "AUS",
+      "venue": "dallas"
+     },
+     {
+      "match": "95",
+      "opponent": "CPV",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "ALG",
+      "venue": "kansas_city"
+     }
+    ]
+   }
+  ],
+  "IRN": [],
+  "NZL": [],
+  "ESP": [
+   {
+    "p": 0.2248,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.1742,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.05224,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.0482,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "CRO",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.03668,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.02564,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "CRO",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.01644,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "CRO",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.01064,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "104",
+      "opponent": "ARG",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.01028,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.01016,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "MAR",
+      "venue": "dallas"
+     },
+     {
+      "match": "104",
+      "opponent": "ARG",
+      "venue": "new_york"
+     }
+    ]
+   }
+  ],
+  "CPV": [
+   {
+    "p": 0.84016,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.04376,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "ARG",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "EGY",
+      "venue": "atlanta"
+     }
+    ]
+   },
+   {
+    "p": 0.03752,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "ARG",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "AUS",
+      "venue": "atlanta"
+     }
+    ]
+   },
+   {
+    "p": 0.01816,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "ARG",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "EGY",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.01548,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "ARG",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "AUS",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.0078,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "ARG",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "EGY",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "SUI",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00752,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "ARG",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "AUS",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "SUI",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00208,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "ARG",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "EGY",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "ALG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00176,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "ARG",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "AUS",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "ALG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.0016,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "ARG",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "EGY",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     }
+    ]
+   }
+  ],
+  "KSA": [],
+  "URU": [],
+  "FRA": [
+   {
+    "p": 0.15424,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "SWE",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.11588,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "SWE",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     }
+    ]
+   },
+   {
+    "p": 0.07384,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "SWE",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.03004,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "SWE",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "104",
+      "opponent": "ARG",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.02584,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "SWE",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "CAN",
+      "venue": "boston"
+     }
+    ]
+   },
+   {
+    "p": 0.01988,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "SWE",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "GER",
+      "venue": "philadelphia"
+     }
+    ]
+   },
+   {
+    "p": 0.01896,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "SWE",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "104",
+      "opponent": "ARG",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.01656,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "SWE",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "USA",
+      "venue": "dallas"
+     },
+     {
+      "match": "104",
+      "opponent": "ARG",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.0148,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "SWE",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "104",
+      "opponent": "BRA",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.01476,
+    "path": [
+     {
+      "match": "77",
+      "opponent": "SWE",
+      "venue": "new_york"
+     },
+     {
+      "match": "89",
+      "opponent": "PAR",
+      "venue": "philadelphia"
+     },
+     {
+      "match": "97",
+      "opponent": "MAR",
+      "venue": "boston"
+     },
+     {
+      "match": "101",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "104",
+      "opponent": "ENG",
+      "venue": "new_york"
+     }
+    ]
+   }
+  ],
+  "SEN": [
+   {
+    "p": 0.84572,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "BEL",
+      "venue": "seattle"
+     }
+    ]
+   },
+   {
+    "p": 0.11304,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "USA",
+      "venue": "seattle"
+     }
+    ]
+   },
+   {
+    "p": 0.01684,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "BIH",
+      "venue": "seattle"
+     }
+    ]
+   },
+   {
+    "p": 0.009,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "USA",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00496,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "USA",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "POR",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00224,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "BIH",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.0016,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "USA",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "CRO",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00156,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "BIH",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "POR",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00044,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "USA",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "AUT",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00036,
+    "path": [
+     {
+      "match": "82",
+      "opponent": "BEL",
+      "venue": "seattle"
+     },
+     {
+      "match": "94",
+      "opponent": "BIH",
+      "venue": "seattle"
+     },
+     {
+      "match": "98",
+      "opponent": "CRO",
+      "venue": "los_angeles"
+     }
+    ]
+   }
+  ],
+  "IRQ": [],
+  "NOR": [
+   {
+    "p": 0.45456,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "CIV",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.15764,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "CIV",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.09148,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "CIV",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.05468,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "CIV",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "MEX",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.04016,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "CIV",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "JPN",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.02492,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "CIV",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "JPN",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "MEX",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.0192,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "CIV",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "JPN",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.00384,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "CIV",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "104",
+      "opponent": "FRA",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.00336,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "CIV",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "ENG",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "FRA",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00336,
+    "path": [
+     {
+      "match": "78",
+      "opponent": "CIV",
+      "venue": "dallas"
+     },
+     {
+      "match": "91",
+      "opponent": "BRA",
+      "venue": "new_york"
+     },
+     {
+      "match": "99",
+      "opponent": "MEX",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "FRA",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "ARG": [
+   {
+    "p": 0.15984,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "CPV",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.07472,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "CPV",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "EGY",
+      "venue": "atlanta"
+     }
+    ]
+   },
+   {
+    "p": 0.06408,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "CPV",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "AUS",
+      "venue": "atlanta"
+     }
+    ]
+   },
+   {
+    "p": 0.04996,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "CPV",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "EGY",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.04592,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "CPV",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "AUS",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.0238,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "CPV",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "EGY",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "SUI",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.02012,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "CPV",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "AUS",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "SUI",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.01276,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "CPV",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "EGY",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "102",
+      "opponent": "ENG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "104",
+      "opponent": "FRA",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.01208,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "CPV",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "EGY",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "102",
+      "opponent": "BRA",
+      "venue": "atlanta"
+     },
+     {
+      "match": "104",
+      "opponent": "FRA",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.01108,
+    "path": [
+     {
+      "match": "86",
+      "opponent": "CPV",
+      "venue": "miami"
+     },
+     {
+      "match": "95",
+      "opponent": "AUS",
+      "venue": "atlanta"
+     },
+     {
+      "match": "100",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "102",
+      "opponent": "BRA",
+      "venue": "atlanta"
+     },
+     {
+      "match": "104",
+      "opponent": "FRA",
+      "venue": "new_york"
+     }
+    ]
+   }
+  ],
+  "ALG": [
+   {
+    "p": 0.70392,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     }
+    ]
+   },
+   {
+    "p": 0.17836,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "COL",
+      "venue": "vancouver"
+     }
+    ]
+   },
+   {
+    "p": 0.03256,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "COL",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "ARG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.03104,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "GHA",
+      "venue": "vancouver"
+     }
+    ]
+   },
+   {
+    "p": 0.01876,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "GHA",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "ARG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00352,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "COL",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "AUS",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00328,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "COL",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "EGY",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.0016,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "GHA",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "EGY",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.0016,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "GHA",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "AUS",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00152,
+    "path": [
+     {
+      "match": "85",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "96",
+      "opponent": "COL",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "CPV",
+      "venue": "kansas_city"
+     }
+    ]
+   }
+  ],
+  "AUT": [
+   {
+    "p": 0.8258,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.10188,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.03092,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "CRO",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.00928,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.0072,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00584,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "CRO",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00432,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "CRO",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.0006,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00048,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "COL",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00048,
+    "path": [
+     {
+      "match": "84",
+      "opponent": "ESP",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "93",
+      "opponent": "POR",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "COL",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "JOR": [],
+  "POR": [
+   {
+    "p": 0.384,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "CRO",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.26316,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "CRO",
+      "venue": "toronto"
+     }
+    ]
+   },
+   {
+    "p": 0.039,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "CRO",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.02776,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "CRO",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.02616,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "CRO",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "AUT",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.02004,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "CRO",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "AUT",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.0124,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "CRO",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "AUT",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00624,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "CRO",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00528,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "CRO",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "104",
+      "opponent": "ARG",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.00512,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "CRO",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ENG",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "COD": [
+   {
+    "p": 0.84336,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "ENG",
+      "venue": "atlanta"
+     }
+    ]
+   },
+   {
+    "p": 0.11672,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "ENG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     }
+    ]
+   },
+   {
+    "p": 0.01208,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "ENG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00876,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "ENG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00592,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "ENG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00472,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "ENG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.0026,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "ENG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00016,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "ENG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "CIV",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00012,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "ENG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "JPN",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "MAR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00012,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "ENG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "POR",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "UZB": [],
+  "COL": [
+   {
+    "p": 0.21012,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.19644,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     }
+    ]
+   },
+   {
+    "p": 0.18632,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "ARG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.09264,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "ARG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.05516,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     }
+    ]
+   },
+   {
+    "p": 0.01068,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "EGY",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00888,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "AUS",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00632,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "CPV",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00616,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "EGY",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00436,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "GHA",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "AUS",
+      "venue": "kansas_city"
+     }
+    ]
+   }
+  ],
+  "ENG": [
+   {
+    "p": 0.2852,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "COD",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     }
+    ]
+   },
+   {
+    "p": 0.15664,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "COD",
+      "venue": "atlanta"
+     }
+    ]
+   },
+   {
+    "p": 0.11508,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "COD",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.05668,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "COD",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.02688,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "COD",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.01912,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "COD",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     }
+    ]
+   },
+   {
+    "p": 0.01252,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "COD",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "ECU",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.01064,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "COD",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "104",
+      "opponent": "FRA",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.01004,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "COD",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "NOR",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "104",
+      "opponent": "FRA",
+      "venue": "new_york"
+     }
+    ]
+   },
+   {
+    "p": 0.0084,
+    "path": [
+     {
+      "match": "80",
+      "opponent": "COD",
+      "venue": "atlanta"
+     },
+     {
+      "match": "92",
+      "opponent": "MEX",
+      "venue": "mexico_city"
+     },
+     {
+      "match": "99",
+      "opponent": "BRA",
+      "venue": "miami"
+     },
+     {
+      "match": "102",
+      "opponent": "ARG",
+      "venue": "atlanta"
+     },
+     {
+      "match": "103",
+      "opponent": "ESP",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "CRO": [
+   {
+    "p": 0.73684,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "POR",
+      "venue": "toronto"
+     }
+    ]
+   },
+   {
+    "p": 0.1688,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "POR",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.01524,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "POR",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "AUT",
+      "venue": "dallas"
+     }
+    ]
+   },
+   {
+    "p": 0.0132,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "POR",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.01096,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "POR",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.01,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "POR",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "AUT",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.0068,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "POR",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "AUT",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     }
+    ]
+   },
+   {
+    "p": 0.00124,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "POR",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.001,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "POR",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "BEL",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "ARG",
+      "venue": "miami"
+     }
+    ]
+   },
+   {
+    "p": 0.00088,
+    "path": [
+     {
+      "match": "83",
+      "opponent": "POR",
+      "venue": "toronto"
+     },
+     {
+      "match": "93",
+      "opponent": "ESP",
+      "venue": "dallas"
+     },
+     {
+      "match": "98",
+      "opponent": "USA",
+      "venue": "los_angeles"
+     },
+     {
+      "match": "101",
+      "opponent": "FRA",
+      "venue": "dallas"
+     },
+     {
+      "match": "103",
+      "opponent": "COL",
+      "venue": "miami"
+     }
+    ]
+   }
+  ],
+  "GHA": [
+   {
+    "p": 0.78988,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.10352,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     }
+    ]
+   },
+   {
+    "p": 0.03152,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     }
+    ]
+   },
+   {
+    "p": 0.02548,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "ARG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.01812,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "ARG",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00252,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "CPV",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00244,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "EGY",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.0022,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "SUI",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "AUS",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00196,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "EGY",
+      "venue": "kansas_city"
+     }
+    ]
+   },
+   {
+    "p": 0.00136,
+    "path": [
+     {
+      "match": "87",
+      "opponent": "COL",
+      "venue": "kansas_city"
+     },
+     {
+      "match": "96",
+      "opponent": "ALG",
+      "venue": "vancouver"
+     },
+     {
+      "match": "100",
+      "opponent": "AUS",
+      "venue": "kansas_city"
+     }
+    ]
+   }
+  ],
+  "PAN": []
+ },
+ "meta": {
+  "lambda": 0.7868981252369298,
+  "lambda_source": "backtest-fitted",
+  "n_sims": 25000,
+  "consensus": {
+   "platforms_used": [
+    "polymarket"
+   ],
+   "liquidity": {
+    "polymarket": 157556349.84944
+   },
+   "devig": "power",
+   "raw_overround": 0.016000000000000014
+  },
+  "inverse_sim": {
+   "tv2": 0.045658673429091697,
+   "iters_run": 12
+  },
+  "legs": "model=real Elo+squad anchor; market=Polymarket outright -> inverse sim; blend on log-odds",
+  "climate": {
+   "venues_with_wbgt": 0,
+   "cap_eg": 0.15,
+   "applies_to": "model leg only (full in model run, (1-\u03bb) in blend)"
+  },
+  "pool_ev": {
+   "pool_total": 960,
+   "sum_team_ev": 960.0,
+   "payouts": {
+    "zero": 10,
+    "advance": 10,
+    "wingroup": 10,
+    "p4": 40,
+    "p3": 60,
+    "p2": 140
+   },
+   "first_base": 280
+  },
+  "generated_utc": "2026-07-03T00:05:10+00:00",
+  "sync_log": {
+   "results": {
+    "league": 1,
+    "season": 2026,
+    "n_api_fixtures": 93,
+    "n_results": 72,
+    "n_with_cards": 72,
+    "warnings": [
+     "no group fixture for pair POR-CRO (api fixture 1567309; knockout or schedule mismatch)",
+     "unmapped venue 'Estadio Banorte' ('Mexico City') for G-A-1-0",
+     "date mismatch G-D-1-1: loader 2026-06-12 vs api 2026-06-14",
+     "unmapped venue 'Estadio Banorte' ('Mexico City') for G-K-1-1",
+     "unmapped venue 'Estadio Banorte' ('Mexico City') for G-A-3-0",
+     "no group fixture for pair RSA-CAN (api fixture 1561329; knockout or schedule mismatch)",
+     "no group fixture for pair BRA-JPN (api fixture 1562344; knockout or schedule mismatch)",
+     "no group fixture for pair GER-PAR (api fixture 1565176; knockout or schedule mismatch)",
+     "no group fixture for pair NED-MAR (api fixture 1562345; knockout or schedule mismatch)",
+     "no group fixture for pair CIV-NOR (api fixture 1564789; knockout or schedule mismatch)",
+     "no group fixture for pair FRA-SWE (api fixture 1565177; knockout or schedule mismatch)",
+     "no group fixture for pair MEX-ECU (api fixture 1567306; knockout or schedule mismatch)",
+     "no group fixture for pair ENG-COD (api fixture 1567307; knockout or schedule mismatch)",
+     "no group fixture for pair BEL-SEN (api fixture 1567308; knockout or schedule mismatch)",
+     "no group fixture for pair USA-BIH (api fixture 1562586; knockout or schedule mismatch)",
+     "no group fixture for pair ESP-AUT (api fixture 1567311; knockout or schedule mismatch)",
+     "no group fixture for pair SUI-ALG (api fixture 1567312; knockout or schedule mismatch)",
+     "no group fixture for pair AUS-EGY (api fixture 1565178; knockout or schedule mismatch)",
+     "no group fixture for pair ARG-CPV (api fixture 1565179; knockout or schedule mismatch)",
+     "no group fixture for pair COL-GHA (api fixture 1567310; knockout or schedule mismatch)",
+     "no group fixture for pair CAN-MAR (api fixture 1567824; knockout or schedule mismatch)",
+     "no group fixture for pair PAR-FRA (api fixture 1569870; knockout or schedule mismatch)",
+     "no group fixture for pair BRA-NOR (api fixture 1568100; knockout or schedule mismatch)",
+     "no group fixture for pair MEX-ENG (api fixture 1570714; knockout or schedule mismatch)",
+     "no group fixture for pair USA-BEL (api fixture 1570715; knockout or schedule mismatch)"
+    ]
+   },
+   "weather": {
+    "venues": 0,
+    "wbgt": {}
+   },
+   "live": {
+    "live_matches": 1
+   }
+  },
+  "ev_change": {
+   "baseline_ts": "2026-07-02T00:05:15+00:00"
+  }
+ },
+ "live": [
+  {
+   "home": "POR",
+   "away": "CRO",
+   "home_name": "Portugal",
+   "away_name": "Croatia",
+   "minute": 45,
+   "hg": 0,
+   "ag": 0,
+   "wdl": [
+    0.346,
+    0.403,
+    0.251
+   ],
+   "source": "model"
+  }
+ ]
+}
